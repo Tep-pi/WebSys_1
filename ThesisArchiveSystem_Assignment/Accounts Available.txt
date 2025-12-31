@@ -1,0 +1,16 @@
+Accounts Available
+
+Admin
+Email: admin
+Password: admin
+
+Adviser
+Email: AD-UR-001
+Password: usamiadviser
+
+Student
+Email: SD-UR-001
+Password: chiakinanami
+
+Email: SD-UR-002
+Password: hajimehinata
